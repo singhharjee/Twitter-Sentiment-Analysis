@@ -10,11 +10,11 @@ from tkinter import Tk,Label,Entry,Text,END,Button,PhotoImage
 
 
 
-api_key="eKfzeYoZWFUQ7g4ogx6KeZqRs"
-api_secret_key="suBMejO4npo3V5DjEGe3CiO3hYByPY37h4YVm7YqxqGpIMbOXn"
+api_key=""
+api_secret_key=""
 
-access_token ="1140296275755036672-zOAtEJ4uUD3jU7Xw0Lhugi8smm656m"
-access_token_secret="xhRYHDe9JjaJO9X2el2PW2caBX9SL1YisciOdvkZNplJY"
+access_token =""
+access_token_secret=""
 
 
 
